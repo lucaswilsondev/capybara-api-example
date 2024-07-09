@@ -1,8 +1,8 @@
-# React + Vite
+#Capybara API 
+  #This project is for acadekic purposes only
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- a silly examle that i made with a public api
 
-Currently, two official plugins are available:
+the api that i used: https://capy.lol/#documentation 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  

@@ -1,5 +1,5 @@
-Capybara API 
-This project is for acadekic purposes only
+# Capybara API 
+# This project is for acadekic purposes only
 
 - a silly examle that i made with a public api
 

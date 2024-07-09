@@ -1,0 +1,25 @@
+:root {
+  font-family: "Inter", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  --primary: #eae2d7;
+  --secondary: #e6cdac;
+  --terceary: #533483;
+  --soft-white: #9e9e9e;
+  --white: #fefefe;
+  --black: #111;
+  --gray: #222222;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  background-color: var(--primary);
+}
